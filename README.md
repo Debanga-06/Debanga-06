@@ -29,6 +29,12 @@
 
 ---
 
+### 🐍 GitHub Activity Snake
+
+![Snake animation](https://github.com/Debanga-06/Debanga-06/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
