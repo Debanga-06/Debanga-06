@@ -35,13 +35,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debanga-06&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Debanga-06&theme=github_dark&hide_border=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanga-06&layout=compact&theme=github_dark&hide_border=false&langs_count=8" height="175"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Debanga-06&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debanga-06&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanga-06&layout=compact&theme=github_dark&langs_count=8" />
+</p>
 
 ---
 
