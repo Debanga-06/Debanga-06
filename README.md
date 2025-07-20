@@ -31,7 +31,7 @@
 
 ### 🐍 GitHub Activity Snake
 
-![Snake animation](https://github.com/Debanga-06/Debanga-06/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Debanga-06/contribution-snake/output/github-contribution-grid-snake.svg)
 
 ---
 
