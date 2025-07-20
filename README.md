@@ -23,6 +23,12 @@
 
 ---
 
+## Visitors Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Debanga-06&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
