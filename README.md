@@ -44,6 +44,11 @@
 </p>
 
 ---
+## ⌨️ My Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 
 <p align="center">
 Thank you for visiting my profile! 👊 Let's connect and build together!
