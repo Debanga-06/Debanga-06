@@ -167,8 +167,8 @@ Stay tuned for weekly coding insights! 🚀
 ### 🎯 Recent Achievements
 - 🎖️ **Campus Ambassador** - The IoT Academy
 - 🏆 **Project Recognition** - ZeroWasteX Featured
-- 📜 **Certification** - AI/ML Specialization
-- 🤝 **Community Leader** - Tech Club President
+- 📜 **Certification** - Ethical Hacker 
+- 🤝 **Community Leader** - SYNTAX SQUAD
 
 ### 📊 Project Impact
 ```text
