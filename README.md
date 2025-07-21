@@ -139,12 +139,15 @@ Current Focus:
 ## ⌨️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
 ```txt
 From: 13 July 2025 - To: 20 July 2025
 
-Currently setting up activity tracking...
-Stay tuned for weekly coding insights! 🚀
+Total Time: 0 secs
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
