@@ -164,10 +164,9 @@ Text         33 mins         utttttttttttttttttttttttt   02.63 %
 <td width="50%">
 
 ### 🌟 Highlighted Projects
+[![CityGPT](https://github-readme-stats.vercel.app/api/pin/?username=Debanga-06&repo=CityGPT&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/CityGPT)
+
 [![BudgetBuddy](https://github-readme-stats.vercel.app/api/pin/?username=Debanga-06&repo=BudgetBuddy&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/BudgetBuddy)
-
-[![ZenTask](https://github-readme-stats.vercel.app/api/pin/?username=Debanga-06&repo=ZenTask&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/ZenTask)
-
 </td>
 <td width="50%">
 
@@ -179,10 +178,10 @@ Text         33 mins         utttttttttttttttttttttttt   02.63 %
 
 ### 📊 Project Impact
 ```text
-BudgetBuddy    : 100+ users
+CityGPT      : 100+ users
 ZenTask      : 200+ positive feedback  
 CipherNotes  : 500+ users
-OpenSource    : 50+ contributions
+OpenSource   : 50+ contributions
 ```
 
 </td>
