@@ -133,9 +133,6 @@ Current Focus:
 <div align="center">
   <img src="https://raw.githubusercontent.com/Debanga-06/contribution-snake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-![GitHub Snake Light](https://github.com/Debanga-06/Debanga-06/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Debanga-06/Debanga-06/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ---
 
 ## ⌨️ Weekly Development Breakdown
