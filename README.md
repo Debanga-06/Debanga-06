@@ -141,15 +141,13 @@ Current Focus:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2025 - To: 02 August 2025
+From: 27 July 2025 - To: 03 August 2025
 
-Total Time: 4 hrs 26 mins
+Total Time: 3 hrs 50 mins
 
-HTML         3 hrs 38 mins   eeeeeeeeeeeeeeeeeeeertttt   81.70 %
-CSS          37 mins         eeeuttttttttttttttttttttt   14.08 %
-JavaScript   11 mins         etttttttttttttttttttttttt   04.18 %
-YAML         0 secs          ttttttttttttttttttttttttt   00.03 %
-JSON         0 secs          ttttttttttttttttttttttttt   00.01 %
+HTML         3 hrs 4 mins    eeeeeeeeeeeeeeeeeeeettttt   79.93 %
+CSS          36 mins         eeeettttttttttttttttttttt   15.85 %
+JavaScript   9 mins          etttttttttttttttttttttttt   04.22 %
 ```
 
 <!--END_SECTION:waka-->
