@@ -141,11 +141,12 @@ Current Focus:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 4 mins
+Total Time: 1 hr 46 mins
 
-Python   4 mins          eeeeeeeeeeeeeeeeeeeeeeeee   100.00 %
+Python     59 mins         eeeeeeeeeeeeeettttttttttt   55.51 %
+Markdown   47 mins         eeeeeeeeeeetttttttttttttt   44.49 %
 ```
 
 <!--END_SECTION:waka-->
