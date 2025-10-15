@@ -141,15 +141,15 @@ Current Focus:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
-Total Time: 1 hr 26 mins
+Total Time: 4 hrs 9 mins
 
-JavaScript    36 mins         eeeeeeeeeertttttttttttttt   41.82 %
-TypeScript    21 mins         eeeeeertttttttttttttttttt   25.08 %
-HTML          12 mins         eeeuttttttttttttttttttttt   14.14 %
-Python        10 mins         eeetttttttttttttttttttttt   11.90 %
-Image (svg)   3 mins          etttttttttttttttttttttttt   03.80 %
+Text          2 hrs 18 mins   eeeeeeeeeeeeeuttttttttttt   55.23 %
+TypeScript    43 mins         eeeertttttttttttttttttttt   17.31 %
+JavaScript    38 mins         eeeuttttttttttttttttttttt   15.27 %
+HTML          12 mins         erttttttttttttttttttttttt   04.93 %
+Python        10 mins         etttttttttttttttttttttttt   04.14 %
 ```
 
 <!--END_SECTION:waka-->
