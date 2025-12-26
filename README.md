@@ -141,15 +141,15 @@ Current Focus:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 18 December 2025 - To: 25 December 2025
 
-Total Time: 4 hrs 54 mins
+Total Time: 2 hrs 49 mins
 
-JavaScript   3 hrs 18 mins   eeeeeeeeeeeeeeeertttttttt   65.92 %
-Python       1 hr 26 mins    eeeeeeerttttttttttttttttt   28.74 %
-Text         7 mins          utttttttttttttttttttttttt   02.62 %
-Other        6 mins          utttttttttttttttttttttttt   02.00 %
-CSV          1 min           ttttttttttttttttttttttttt   00.65 %
+JavaScript   1 hr 27 mins    eeeeeeeeeeeuttttttttttttt   46.87 %
+Python       1 hr 8 mins     eeeeeeeeerttttttttttttttt   36.77 %
+Other        16 mins         eettttttttttttttttttttttt   08.62 %
+HTML         6 mins          etttttttttttttttttttttttt   03.70 %
+Markdown     5 mins          utttttttttttttttttttttttt   02.86 %
 ```
 
 <!--END_SECTION:waka-->
