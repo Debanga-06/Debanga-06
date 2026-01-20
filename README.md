@@ -9,7 +9,7 @@
 
 
 <!-- Dynamic GitHub metrics -->
-<img src="https://github-profile-trophy.vercel.app/?username=Debanga-06&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=debanga-06&theme=tokyo-night)
 </div>
 
 ---
