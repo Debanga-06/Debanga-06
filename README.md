@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+real-world+solutions+through+technology;AI%2FML+Explorer+%26+Web+Developer;Open+Source+Contributor+%26+Hackathon+Winner;Currently+exploring+GenAI+%26+LLMs;Available+for+collaboration+%26+opportunities)](https://git.io/typing-svg)
 
-<!-- Dynamic GitHub metrics -->
-<img src="https://github-profile-trophy.vercel.app/?username=Debanga-06&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
 
 </div>
 
