@@ -165,9 +165,9 @@ HTML              46 mins               eettttttttttttttttttttttt   08.61 %
 <td width="50%">
 
 ### 🌟 Highlighted Projects
-[![CityGPT](https://github-readme-stats.vercel.app/api/pin/?username=Debanga-06&repo=CityGPT&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/CityGPT)
+[![ResumeIQ](https://github-readme-stats.vercel.app/api/pin/?username=Debanga-06&repo=CityGPT&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/ResumeIQ)
 
-[![BudgetBuddy](https://github-readme-stats.vercel.app/api/pin/?username=Debanga-06&repo=BudgetBuddy&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/BudgetBuddy)
+[![CipherNest](https://github-readme-stats.vercel.app/api/pin/?username=Debanga-06&repo=BudgetBuddy&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/CipherNest)
 </td>
 <td width="50%">
 
