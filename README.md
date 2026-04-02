@@ -4,12 +4,11 @@
 
 ### *CSE (AI-ML) Student | Tech Enthusiast | Innovation Catalyst*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+real-world+solutions+through+technology;AI%2FML+Explorer+%26+Web+Developer;Open+Source+Contributor+%26+Hackathon+Winner;Currently+exploring+GenAI+%26+LLMs;Available+for+collaboration+%26+opportunities)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+real-world+solutions+through+technology;AI%2FML+Explorer+%26+Web+Developer;Open+Source+Contributor+%26+Hackathon+Winner;Currently+exploring+GenAI+%26+LLMs;Available+for+collaboration+%26+opportunities)](https://git.io/typing-svg)
 
 <!-- Dynamic GitHub metrics -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=debanga-06&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Debanga-06&theme=tokyo-night)
+
 </div>
 
 ---
@@ -42,12 +41,12 @@ Current Focus:
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
 
-### 📈 Live GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Debanga-06&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=Debanga's%20GitHub%20Stats&include_all_commits=true" width="100%" />
+### 📈 GitHub Stats
+
+![Debanga's GitHub Stats](https://github-readme-stats-nine-inky-37.vercel.app/api?username=Debanga-06&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=Debanga%27s%20GitHub%20Stats&include_all_commits=true)
 
 ### 🔥 Dynamic Metrics
-![Commits](https://img.shields.io/github/commit-activity/m/Debanga-06/Debanga-06?style=flat-square&color=green&label=Monthly%20Commits)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Debanga-06&query=$.public_repos&style=flat-square&color=blue&label=Public%20Repos)
+![Profile Views](https://komarev.com/ghpvc/?username=Debanga-06&style=flat-square&color=brightgreen&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Debanga-06?style=flat-square&color=red&label=Followers)
 ![Stars](https://img.shields.io/github/stars/Debanga-06?style=flat-square&color=yellow&label=Total%20Stars)
 
@@ -112,6 +111,7 @@ Current Focus:
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -119,12 +119,16 @@ Current Focus:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Debanga-06&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Debanga-06&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats-nine-inky-37.vercel.app/api?username=Debanga-06&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Debanga-06&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanga-06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img width="60%" src="https://github-readme-stats-nine-inky-37.vercel.app/api/top-langs/?username=Debanga-06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
@@ -165,22 +169,24 @@ HTML              46 mins               eettttttttttttttttttttttt   08.61 %
 <td width="50%">
 
 ### 🌟 Highlighted Projects
-[![ResumeIQ](https://github-readme-stats.vercel.app/api/pin/?username=Debanga-06&repo=CityGPT&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/ResumeIQ)
 
-[![CipherNest](https://github-readme-stats.vercel.app/api/pin/?username=Debanga-06&repo=BudgetBuddy&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/CipherNest)
+[![ResumeIQ](https://github-readme-stats-nine-inky-37.vercel.app/api/pin/?username=Debanga-06&repo=ResumeIQ&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/ResumeIQ)
+
+[![CipherNest](https://github-readme-stats-nine-inky-37.vercel.app/api/pin/?username=Debanga-06&repo=CipherNest&theme=tokyonight&hide_border=true)](https://github.com/Debanga-06/CipherNest)
+
 </td>
 <td width="50%">
 
 ### 🎯 Recent Achievements
 - 🎖️ **Campus Ambassador** - The IoT Academy
 - 🏆 **Project Recognition** - ZeroWasteX Featured
-- 📜 **Certification** - Ethical Hacker 
+- 📜 **Certification** - Ethical Hacker
 - 🤝 **Community Leader** - SYNTAX SQUAD
 
 ### 📊 Project Impact
 ```text
 CityGPT      : 100+ users
-ZenTask      : 200+ positive feedback  
+ZenTask      : 200+ positive feedback
 CipherNotes  : 500+ users
 OpenSource   : 50+ contributions
 ```
@@ -189,8 +195,6 @@ OpenSource   : 50+ contributions
 </tr>
 </table>
 </div>
-
----
 
 ---
 
@@ -246,8 +250,7 @@ OpenSource   : 50+ contributions
 
 ---
 
-### 🔥 Fun Fact Generator
-<!-- Fun fact that changes daily -->
+### 🔥 Fun Fact
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 ---
