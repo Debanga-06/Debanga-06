@@ -146,15 +146,15 @@ Current Focus:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2026 - To: 05 May 2026
+From: 29 April 2026 - To: 06 May 2026
 
-Total Time: 1 hr 15 mins
+Total Time: 32 mins
 
-Markdown     36 mins               eeeeeeeeeeeettttttttttttt   48.49 %
-Python       21 mins               eeeeeeerttttttttttttttttt   28.89 %
-Text         7 mins                eertttttttttttttttttttttt   09.72 %
-JavaScript   4 mins                euttttttttttttttttttttttt   06.50 %
-Git Config   2 mins                etttttttttttttttttttttttt   03.34 %
+Markdown     21 mins               eeeeeeeeeeeeeeeeutttttttt   67.32 %
+JavaScript   4 mins                eeeuttttttttttttttttttttt   15.00 %
+Python       3 mins                eeetttttttttttttttttttttt   12.24 %
+Text         1 min                 erttttttttttttttttttttttt   04.91 %
+Other        0 secs                ttttttttttttttttttttttttt   00.52 %
 ```
 
 <!--END_SECTION:waka-->
