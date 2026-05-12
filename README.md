@@ -47,7 +47,7 @@ Current Focus:
 
 ### 🔥 Dynamic Metrics
 ![Profile Views](https://komarev.com/ghpvc/?username=Debanga-06&style=flat-square&color=brightgreen&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Debanga-06?style=flat-square&color=red&label=Followers)
+[![GitHub followers](https://img.shields.io/github/followers/Debanga-06?label=Followers&style=for-the-badge&color=blue)](https://github.com/Debanga-06)
 ![Stars](https://img.shields.io/github/stars/Debanga-06?style=flat-square&color=yellow&label=Total%20Stars)
 
 </td>
