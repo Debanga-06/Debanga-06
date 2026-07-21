@@ -120,14 +120,8 @@ Current Focus:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-nine-inky-37.vercel.app/api?username=Debanga-06&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Debanga-06&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats-nine-inky-37.vercel.app/api/top-langs/?username=Debanga-06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="48%" src="https://github-readme-stats-nine-inky-37.vercel.app/api?username=Debanga-06&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" />
+<img width="48%" src="https://github-readme-stats-nine-inky-37.vercel.app/api/top-langs/?username=Debanga-06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
 
 </div>
 
