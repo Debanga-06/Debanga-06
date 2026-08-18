@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+real-world+solutions+through+technology;AI%2FML+Explorer+%26+Web+Developer;Open+Source+Contributor+%26+Hackathon+Winner;Currently+exploring+GenAI+%26+LLMs;Available+for+collaboration+%26+opportunities)](https://git.io/typing-svg)
 
 <!-- Dynamic GitHub metrics -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Debanga-06&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph-lake-eta.vercel.app/graph?username=Debanga-06&theme=tokyo-night)
 
 </div>
 
