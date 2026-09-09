@@ -140,15 +140,15 @@ Current Focus:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2026 - To: 07 September 2026
+From: 01 September 2026 - To: 08 September 2026
 
-Total Time: 7 hrs 46 mins
+Total Time: 6 hrs 59 mins
 
-HTML         3 hrs 35 mins         eeeeeeeeeeeuttttttttttttt   46.27 %
-Markdown     1 hr 24 mins          eeeeutttttttttttttttttttt   18.20 %
-JSON         59 mins               eeerttttttttttttttttttttt   12.72 %
-Python       37 mins               eettttttttttttttttttttttt   08.08 %
-Bash         19 mins               etttttttttttttttttttttttt   04.09 %
+HTML         3 hrs 36 mins         eeeeeeeeeeeeetttttttttttt   51.46 %
+JSON         59 mins               eeeuttttttttttttttttttttt   14.14 %
+Markdown     44 mins               eeutttttttttttttttttttttt   10.55 %
+Python       35 mins               eettttttttttttttttttttttt   08.39 %
+SQL          17 mins               etttttttttttttttttttttttt   04.22 %
 ```
 
 <!--END_SECTION:waka-->
