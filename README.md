@@ -140,15 +140,15 @@ Current Focus:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-Total Time: 1 hr 36 mins
+Total Time: 1 hr 3 mins
 
-Bash         44 mins               eeeeeeeeeeeuttttttttttttt   46.23 %
-TypeScript   39 mins               eeeeeeeeeettttttttttttttt   40.50 %
-Markdown     5 mins                erttttttttttttttttttttttt   05.85 %
-JSON         3 mins                etttttttttttttttttttttttt   03.54 %
-Prisma       3 mins                etttttttttttttttttttttttt   03.37 %
+Bash         38 mins               eeeeeeeeeeeeeeerttttttttt   61.47 %
+TypeScript   17 mins               eeeeeeutttttttttttttttttt   26.99 %
+JSON         3 mins                erttttttttttttttttttttttt   05.40 %
+Prisma       3 mins                erttttttttttttttttttttttt   05.15 %
+Markdown     0 secs                ttttttttttttttttttttttttt   00.45 %
 ```
 
 <!--END_SECTION:waka-->
