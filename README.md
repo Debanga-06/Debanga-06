@@ -135,14 +135,15 @@ Current Focus:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2026 - To: 12 November 2026
+From: 06 November 2026 - To: 13 November 2026
 
-Total Time: 2 mins
+Total Time: 11 mins
 
-HTML         2 mins                ███████████████████████▒░   92.68 %
-JavaScript   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Markdown     6 mins                ██████████████▓░░░░░░░░░░   58.07 %
+Python       2 mins                █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+HTML         2 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+YAML         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
